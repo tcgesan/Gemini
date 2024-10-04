@@ -181,13 +181,13 @@ align-items: center;
    margin-top: 20px;
 }
 .chat-list .loading-indicator .loading-bar{
-   height: 20px;
-   margin-top: 10%;
+   height: 30px;
+   margin-top: -7%;
    display: flex;
    justify-content: center;
    position: absolute;
    border-radius: 0.14rem;
-   bottom: 60%;
+   /* bottom: 60%; */
    /* padding-bottom: 20%; */
    width: 40%;
    background: linear-gradient(to right, #206be4, var(--primary-color), #2a20ea);
