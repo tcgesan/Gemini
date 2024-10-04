@@ -214,12 +214,13 @@ align-items: center;
 .typing-area{
    position: fixed;
    width: 60%;
+   margin-left: 24%;
    display: flex;
    align-items: center;
-   justify-content:space-evenly;
+   /* justify-content:space-evenly; */
    align-content: center;
    justify-items: center;
-   bottom: 7px;
+   bottom: 13px;
    background-color: red;
    height: 8%;
    background: var(--primary-color);
