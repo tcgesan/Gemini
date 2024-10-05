@@ -115,6 +115,7 @@ margin-left:40px;
 .chat-list{
    scrollbar-color: #62a3e8 transparent;
  scroll-behavior: smooth; 
+ font-size: 13px;
  width: 90%;
  /* height: 200px; */
  margin-left: 7.50%;
